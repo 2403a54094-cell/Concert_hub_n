@@ -1,3 +1,4 @@
+
 # ConcertHub
 
 Concert ticket booking website with a full admin portal. HTML, CSS and JavaScript on the front, Node.js + Express + MongoDB on the back.
@@ -47,3 +48,5 @@ frontend/  index.html + js/app.js (website), admin/ (portal), css/style.css
 - Existing concerts without a seat plan receive a default VIP/Gold/Silver plan during startup migration.
 
 Checkout remains a college-project demo: it records a selected payment method but does not charge real money.
+
+
